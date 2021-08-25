@@ -35,5 +35,5 @@ Original code: [CODE](https://github.com/coding-boot-camp/urban-octo-telegram/bl
 Live URL: (https://stewk033.github.io/horiseon/)
 
 Refactored Code:
-* [HTML] (https://github.com/stewk033/horiseon/blob/main/index.html)
-* [CSS] (https://github.com/stewk033/horiseon/blob/main/assets/css/style.css)
+* [HTML](https://github.com/stewk033/horiseon/blob/main/index.html)
+* [CSS](https://github.com/stewk033/horiseon/blob/main/assets/css/style.css)
