@@ -26,9 +26,9 @@ SO THAT our own site is optimized for search engines
 
 Provided with a mock-up and original code from which to work.
 
-Original code: [CODE] (https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/index.html)
+Original code: [CODE](https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/index.html)
 
-![MOCKUP] (https://github.com/stewk033/horiseon/blob/main/assets/images/mockup.png)
+![MOCKUP](https://github.com/stewk033/horiseon/blob/main/assets/images/mockup.png)
 
 ## My Solution
 
