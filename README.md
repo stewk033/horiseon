@@ -28,11 +28,11 @@ Provided with a mock-up and original code from which to work.
 
 Original code: [CODE] (https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/index.html)
 
-![MOCKUP] ()
+![MOCKUP] (https://github.com/stewk033/horiseon/blob/main/Develop/assets/images/mockup.png)
 
 ## My Solution
 
-Live URL: ()
+Live URL: (https://stewk033.github.io/horiseon/)
 
 Refactored Code:
 * [HTML] ()
